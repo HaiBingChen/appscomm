@@ -1,0 +1,11 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\bind_icon.bin   大小:0x00007D92
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\bind\batch\bind_bind_43x39.bin        0x00000D1A        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\bind\batch\bind_cancel_50x50.bin        0x00001388        0x00000D1A             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\bind\batch\bind_determine_50x50.bin        0x00001388        0x000020A2             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\bind\batch\bind_no_36x36.bin        0x00000A20        0x0000342A             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\bind\batch\bind_phone_47x87.bin        0x00001F44        0x00003E4A             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui\bind\batch\bind_wathc_37x66.bin        0x00001314        0x00005D8E             否
+ 7      E:\appscomm\L42E\ui\l42E\L42E_ui\bind\batch\bind_yes_46x36.bin        0x00000CF0        0x000070A2             否

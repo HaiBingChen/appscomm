@@ -1,0 +1,7 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\sleep_icon.bin   大小:0x00004CC4
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\sleep\batch\sleep_firstmenu_82x88.bin        0x00003860        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\sleep\batch\sleep_history_27x25.bin        0x00000546        0x00003860             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\sleep\batch\sleep_sleeping_43x45.bin        0x00000F1E        0x00003DA6             否

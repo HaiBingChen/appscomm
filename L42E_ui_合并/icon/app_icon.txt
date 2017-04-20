@@ -1,0 +1,18 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\app_icon.bin   大小:0x00015BBE
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_brightness_35x35.bin        0x00000992        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_brightness_awake_82x82.bin        0x00003488        0x00000992             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_camera_36x30.bin        0x00000870        0x00003E1A             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_firstmune_104x104.bin        0x00005480        0x0000468A             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_music_34x34.bin        0x00000908        0x00009B0A             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_remind_33x40.bin        0x00000A50        0x0000A412             否
+ 7      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_search_35x40.bin        0x00000AF0        0x0000AE62             否
+ 8      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_search_finding_79x90.bin        0x0000378C        0x0000B952             否
+ 9      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_setting_37x37.bin        0x00000AB2        0x0000F0DE             否
+ 10      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_shock_38x41.bin        0x00000C2C        0x0000FB90             否
+ 11      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_shock_determine_37x37.bin        0x00000AB2        0x000107BC             否
+ 12      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_Stopwatch_36x42.bin        0x00000BD0        0x0001126E             否
+ 13      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_timer_reset_50x50.bin        0x00001388        0x00011E3E             否
+ 14      E:\appscomm\L42E\ui\l42E\L42E_ui\app\batch\app_timer_stopwatch_68x79.bin        0x000029F8        0x000131C6             否

@@ -1,0 +1,9 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\camrea_icon.bin   大小:0x0000AE08
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\camrea\batch\camrea_1_26x76.bin        0x00000F70        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\camrea\batch\camrea_2_40x76.bin        0x000017C0        0x00000F70             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\camrea\batch\camrea_3_40x76.bin        0x000017C0        0x00002730             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\camrea\batch\camrea_ok_100x83.bin        0x000040D8        0x00003EF0             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\camrea\batch\camrea_remind_80x74.bin        0x00002E40        0x00007FC8             否

@@ -1,0 +1,17 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\number_45px_24x32.bin   大小:0x00004380
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_45px\batch\number_45px_0_24x32.bin        0x00000600        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_45px\batch\number_45px_1_24x32.bin        0x00000600        0x00000600             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_45px\batch\number_45px_2_24x32.bin        0x00000600        0x00000C00             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_45px\batch\number_45px_3_24x32.bin        0x00000600        0x00001200             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_45px\batch\number_45px_4_24x32.bin        0x00000600        0x00001800             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_45px\batch\number_45px_5_24x32.bin        0x00000600        0x00001E00             否
+ 7      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_45px\batch\number_45px_6_24x32.bin        0x00000600        0x00002400             否
+ 8      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_45px\batch\number_45px_7_24x32.bin        0x00000600        0x00002A00             否
+ 9      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_45px\batch\number_45px_8_24x32.bin        0x00000600        0x00003000             否
+ 10      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_45px\batch\number_45px_9_24x32.bin        0x00000600        0x00003600             否
+ 11      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_45px\batch\number_45pxc_bars_16x32.bin        0x00000400        0x00003C00             否
+ 12      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_45px\batch\number_45pxc_colon_6x32.bin        0x00000180        0x00004000             否
+ 13      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_45px\batch\number_45pxc_point_8x32.bin        0x00000200        0x00004180             否

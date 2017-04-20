@@ -1,0 +1,15 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\battery_icon.bin   大小:0x00004FD2
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\battery\batch\battery_charging00_110x54.bin        0x00002E68        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\battery\batch\battery_charging01_38x24.bin        0x00000720        0x00002E68             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\battery\batch\battery_charging02_15x40.bin        0x000004B0        0x00003588             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\battery\batch\battery_charging03_15x40.bin        0x000004B0        0x00003A38             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\battery\batch\battery_charging04_15x40.bin        0x000004B0        0x00003EE8             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui\battery\batch\battery_charging05_5x40.bin        0x00000190        0x00004398             否
+ 7      E:\appscomm\L42E\ui\l42E\L42E_ui\battery\batch\battery_state00_21x13.bin        0x00000222        0x00004528             否
+ 8      E:\appscomm\L42E\ui\l42E\L42E_ui\battery\batch\battery_state01_21x13.bin        0x00000222        0x0000474A             否
+ 9      E:\appscomm\L42E\ui\l42E\L42E_ui\battery\batch\battery_state02_21x13.bin        0x00000222        0x0000496C             否
+ 10      E:\appscomm\L42E\ui\l42E\L42E_ui\battery\batch\battery_state03_21x13.bin        0x00000222        0x00004B8E             否
+ 11      E:\appscomm\L42E\ui\l42E\L42E_ui\battery\batch\battery_state04_21x13.bin        0x00000222        0x00004DB0             否

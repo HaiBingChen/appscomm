@@ -1,0 +1,15 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\L42E_icon.bin   大小:0x00093AF6
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\app_icon.bin             0x00015BBE        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\battery_icon.bin         0x00004FD2        0x00015BBE             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\bind_icon.bin            0x00007D92        0x0001AB90             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\camrea_icon.bin          0x0000AE08        0x00022922             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\heart_rate_icon.bin        0x0000D864        0x0002D72A             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\message_icon.bin         0x0001EF14        0x0003AF8E             否
+ 7      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\music_icon.bin           0x00005CC0        0x00059EA2             否
+ 8      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\remind_icon.bin          0x00017E9A        0x0005FB62             否
+ 9      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\sleep_icon.bin           0x00004CC4        0x000779FC             否
+ 10      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\sport_icon.bin           0x0000DCAC        0x0007C6C0             否
+ 11      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\today_icon.bin           0x0000978A        0x0008A36C             否

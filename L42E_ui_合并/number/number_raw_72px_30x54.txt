@@ -1,0 +1,15 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\number_raw_72px_30x54.bin   大小:0x00008694
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\数字（粗）_72px\batch\number_raw_72px_0_30x54.bin        0x00000CA8        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\数字（粗）_72px\batch\number_raw_72px_1_30x54.bin        0x00000CA8        0x00000CA8             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\数字（粗）_72px\batch\number_raw_72px_2_30x54.bin        0x00000CA8        0x00001950             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\数字（粗）_72px\batch\number_raw_72px_3_30x54.bin        0x00000CA8        0x000025F8             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\数字（粗）_72px\batch\number_raw_72px_4_30x54.bin        0x00000CA8        0x000032A0             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui\数字（粗）_72px\batch\number_raw_72px_5_30x54.bin        0x00000CA8        0x00003F48             否
+ 7      E:\appscomm\L42E\ui\l42E\L42E_ui\数字（粗）_72px\batch\number_raw_72px_6_30x54.bin        0x00000CA8        0x00004BF0             否
+ 8      E:\appscomm\L42E\ui\l42E\L42E_ui\数字（粗）_72px\batch\number_raw_72px_7_30x54.bin        0x00000CA8        0x00005898             否
+ 9      E:\appscomm\L42E\ui\l42E\L42E_ui\数字（粗）_72px\batch\number_raw_72px_8_30x54.bin        0x00000CA8        0x00006540             否
+ 10      E:\appscomm\L42E\ui\l42E\L42E_ui\数字（粗）_72px\batch\number_raw_72px_9_30x54.bin        0x00000CA8        0x000071E8             否
+ 11      E:\appscomm\L42E\ui\l42E\L42E_ui\数字（粗）_72px\batch\number_raw_72px_colon_19x54.bin        0x00000804        0x00007E90             否

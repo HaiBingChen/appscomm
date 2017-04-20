@@ -1,0 +1,9 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\today_icon.bin   大小:0x0000978A
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\today\batch\today_cal_39x51l.bin        0x00000F8A        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\today\batch\today_distance_53x54.bin        0x0000165C        0x00000F8A             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\today\batch\today_firstmenu_96x100.bin        0x00004B00        0x000025E6             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\today\batch\today_steps_44x57.bin        0x00001398        0x000070E6             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\today\batch\today_time_46x53.bin        0x0000130C        0x0000847E             否

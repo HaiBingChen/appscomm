@@ -1,0 +1,5 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\timer_premiere\L42E_timer_premiere.bin   大小:0x000012FC
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\timer_premiere\timer_premiere_icon.bin        0x000012FC        0x00000000             否

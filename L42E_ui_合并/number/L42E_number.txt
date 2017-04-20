@@ -1,0 +1,13 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\L42E_number.bin   大小:0x0002284A
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\number_18px_12x13.bin        0x00000D1A        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\number_24px_14x18.bin        0x00001710        0x00000D1A             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\number_30px_17x21.bin        0x00002028        0x0000242A             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\number_36px_20x27.bin        0x0000304E        0x00004452             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\number_45px_24x32.bin        0x00004380        0x000074A0             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\number_72px_35x53.bin        0x000094A6        0x0000B820             否
+ 7      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\number_raw_24px_11x18.bin        0x00001290        0x00014CC6             否
+ 8      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\number_raw_48px_20x36.bin        0x00004260        0x00015F56             否
+ 9      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\number_raw_72px_30x54.bin        0x00008694        0x0001A1B6             否

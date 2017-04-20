@@ -1,0 +1,7 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\bar\L42E_bar.bin   大小:0x00000972
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\bar\brightness_bar.bin        0x00000300        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\bar\music_bar.bin             0x000001E0        0x00000300             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\bar\today_bar.bin             0x00000492        0x000004E0             否

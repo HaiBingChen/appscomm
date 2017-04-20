@@ -1,0 +1,8 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\timer_spot\timer_spot_icon.bin   大小:0x00000140
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\timer_spot\batch\timer_spot_point_blue_4x4.bin        0x00000020        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\timer_spot\batch\timer_spot_point_blue_8x8.bin        0x00000080        0x00000020             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\timer_spot\batch\timer_spot_point_gray_4x4.bin        0x00000020        0x000000A0             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\timer_spot\batch\timer_spot_point_gray_8x8.bin        0x00000080        0x000000C0             否

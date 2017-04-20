@@ -1,0 +1,11 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\music_icon.bin   大小:0x00005CC0
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\music\batch\music_circle_68x68.bin        0x00002420        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\music\batch\music_next_22x17.bin        0x000002EC        0x00002420             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\music\batch\music_pause_25x30.bin        0x000005DC        0x0000270C             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\music\batch\music_play_25x30.bin        0x000005DC        0x00002CE8             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\music\batch\music_upon_22x17.bin        0x000002EC        0x000032C4             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui\music\batch\music_volume_increase_50x50.bin        0x00001388        0x000035B0             否
+ 7      E:\appscomm\L42E\ui\l42E\L42E_ui\music\batch\music_volume_reduce_50x50.bin        0x00001388        0x00004938             否

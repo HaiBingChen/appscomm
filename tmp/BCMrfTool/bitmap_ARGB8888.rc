@@ -1,0 +1,25 @@
+;ID           resouce type                  filename
+0             BitmapARGB8888                      0.bmp
+1             BitmapARGB8888                      1.bmp
+2             BitmapARGB8888                      2.bmp
+3             BitmapARGB8888                      3.bmp
+4             BitmapARGB8888                      4.bmp
+5             BitmapARGB8888                      5.bmp
+6             BitmapARGB8888                      6.bmp
+7             BitmapARGB8888                      7.bmp
+8             BitmapARGB8888                      8.bmp
+9             BitmapARGB8888                      9.bmp
+
+10            BitmapARGB8888                      dot.bmp
+
+11            BitmapARGB8888                      please.bmp
+12            BitmapARGB8888                      carpic.bmp
+13            BitmapARGB8888                      stop.bmp
+;14           BitmapARGB8888                      car.bmp
+14            PNG                                 car_png.PNG
+
+15            BitmapARGB8888                      back.bmp
+
+16            BitmapARGB8888                      Exclamation.bmp
+17            BitmapARGB8888                      m.bmp
+18            WAV                                 sound.wav

@@ -1,0 +1,10 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\timer_premiere\timer_premiere_icon.bin   大小:0x000012FC
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\timer_premiere\batch\timer_premiere_cal_20x26.bin        0x00000410        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\timer_premiere\batch\timer_premiere_distance_20x2.bin        0x00000348        0x00000410             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\timer_premiere\batch\timer_premiere_hr_20x16.bin        0x00000280        0x00000758             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\timer_premiere\batch\timer_premiere_line_190x1.bin        0x0000017C        0x000009D8             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\timer_premiere\batch\timer_premiere_steps_20x26.bin        0x00000410        0x00000B54             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui\timer_premiere\batch\timer_premiere_time_20x23.bin        0x00000398        0x00000F64             否

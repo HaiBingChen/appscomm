@@ -1,0 +1,6 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\L42E_FontLib_total.bin   大小:0x00360000
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\L42E_FontLib.bin              0x000D4E1A        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\L53B_Font-16.10.26.bin        0x000EE000        0x00272000             是

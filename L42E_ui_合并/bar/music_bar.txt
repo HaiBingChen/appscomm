@@ -1,0 +1,6 @@
+目标文件:E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\bar\music_bar.bin   大小:0x000001E0
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\bar\batch\music_volume_black_6x20.bin        0x000000F0        0x00000000             否
+ 2      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\bar\batch\music_volume_red_6x20.bin        0x000000F0        0x000000F0             否

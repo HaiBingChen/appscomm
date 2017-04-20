@@ -1,0 +1,15 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\number_72px_35x53.bin   大小:0x000094A6
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_72px\batch\number_72px_0_35x53.bin        0x00000E7E        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_72px\batch\number_72px_1_35x53.bin        0x00000E7E        0x00000E7E             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_72px\batch\number_72px_2_35x53.bin        0x00000E7E        0x00001CFC             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_72px\batch\number_72px_3_35x53.bin        0x00000E7E        0x00002B7A             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_72px\batch\number_72px_4_35x53.bin        0x00000E7E        0x000039F8             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_72px\batch\number_72px_5_35x53.bin        0x00000E7E        0x00004876             否
+ 7      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_72px\batch\number_72px_6_35x53.bin        0x00000E7E        0x000056F4             否
+ 8      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_72px\batch\number_72px_7_35x53.bin        0x00000E7E        0x00006572             否
+ 9      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_72px\batch\number_72px_8_35x53.bin        0x00000E7E        0x000073F0             否
+ 10      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_72px\batch\number_72px_9_35x53.bin        0x00000E7E        0x0000826E             否
+ 11      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_72px\batch\number_72px_colon_9x53.bin        0x000003BA        0x000090EC             否

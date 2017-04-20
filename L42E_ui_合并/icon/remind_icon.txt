@@ -1,0 +1,19 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\remind_icon.bin   大小:0x00017E9A
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_alarm_32x41.bin        0x00000A40        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_alarm_62x78.bin        0x000025C8        0x00000A40             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_coffee_38x29.bin        0x0000089C        0x00003008             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_coffee_75x57.bin        0x00002166        0x000038A4             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_eat_27x40.bin        0x00000870        0x00005A0A             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_eat_50x76.bin        0x00001DB0        0x0000627A             否
+ 7      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_medicine_34x43.bin        0x00000B6C        0x0000802A             否
+ 8      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_medicine_62x80.bin        0x000026C0        0x00008B96             否
+ 9      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_memoryfull_65x70.bin        0x0000238C        0x0000B256             否
+ 10      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_schedule_37x37.bin        0x00000AB2        0x0000D5E2             否
+ 11      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_sleep_51x40.bin        0x00000FF0        0x0000E094             否
+ 12      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_sleep_93x73.bin        0x0000350A        0x0000F084             否
+ 13      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_sport_33x89.bin        0x000016F2        0x0001258E             否
+ 14      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_synchronize_71x71.bin        0x00002762        0x00013C80             否
+ 15      E:\appscomm\L42E\ui\l42E\L42E_ui\remind\batch\remind_upgrade_57x60.bin        0x00001AB8        0x000163E2             否

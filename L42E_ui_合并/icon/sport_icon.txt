@@ -1,0 +1,15 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\sport_icon.bin   大小:0x0000DCAC
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\sport\batch\sport_btn_202x55.bin        0x000056CC        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\sport\batch\sport_cal_24x32.bin        0x00000600        0x000056CC             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\sport\batch\sport_circle_50x50.bin        0x00001388        0x00005CCC             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\sport\batch\sport_distance_32x33.bin        0x00000840        0x00007054             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\sport\batch\sport_end_50x50.bin        0x00001388        0x00007894             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui\sport\batch\sport_firstmenu_62x102.bin        0x00003168        0x00008C1C             否
+ 7      E:\appscomm\L42E\ui\l42E\L42E_ui\sport\batch\sport_hr_28x25.bin        0x00000578        0x0000BD84             否
+ 8      E:\appscomm\L42E\ui\l42E\L42E_ui\sport\batch\sport_pause_26x29.bin        0x000005E4        0x0000C2FC             否
+ 9      E:\appscomm\L42E\ui\l42E\L42E_ui\sport\batch\sport_play_26x29.bin        0x000005E4        0x0000C8E0             否
+ 10      E:\appscomm\L42E\ui\l42E\L42E_ui\sport\batch\sport_steps_26x34.bin        0x000006E8        0x0000CEC4             否
+ 11      E:\appscomm\L42E\ui\l42E\L42E_ui\sport\batch\sport_time_28x32.bin        0x00000700        0x0000D5AC             否

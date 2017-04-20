@@ -1,0 +1,19 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\icon\message_icon.bin   大小:0x0001EF14
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_call_65x60.bin        0x00001E78        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_cleanall_202x55.bin        0x000056CC        0x00001E78             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_hang_up_110x50.bin        0x00002AF8        0x00007544             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_info_39x33.bin        0x00000A0E        0x0000A03C             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_info_77x65.bin        0x0000271A        0x0000AA4A             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_info_87x78.bin        0x00003504        0x0000D164             否
+ 7      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_line_240x1.bin        0x000001E0        0x00010668             否
+ 8      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_miss_37x27.bin        0x000007CE        0x00010848             否
+ 9      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_schedule_39x32.bin        0x000009C0        0x00011016             否
+ 10      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_schedule_92x76.bin        0x000036A0        0x000119D6             否
+ 11      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_sms_38x28.bin        0x00000850        0x00015076             否
+ 12      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_sms_90x67.bin        0x00002F1C        0x000158C6             否
+ 13      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_social_43x30.bin        0x00000A14        0x000187E2             否
+ 14      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\message_social_102x70.bin        0x000037C8        0x000191F6             否
+ 15      E:\appscomm\L42E\ui\l42E\L42E_ui\message\batch\mssage_miss_81x59.bin        0x00002556        0x0001C9BE             否

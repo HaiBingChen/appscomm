@@ -1,0 +1,16 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\number\number_18px_12x13.bin   大小:0x00000D1A
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_18px\batch\number_18px_0_12x13.bin        0x00000138        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_18px\batch\number_18px_1_12x13.bin        0x00000138        0x00000138             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_18px\batch\number_18px_2_12x13.bin        0x00000138        0x00000270             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_18px\batch\number_18px_3_12x13.bin        0x00000138        0x000003A8             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_18px\batch\number_18px_4_12x13.bin        0x00000138        0x000004E0             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_18px\batch\number_18px_5_12x13.bin        0x00000138        0x00000618             否
+ 7      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_18px\batch\number_18px_6_12x13.bin        0x00000138        0x00000750             否
+ 8      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_18px\batch\number_18px_7_12x13.bin        0x00000138        0x00000888             否
+ 9      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_18px\batch\number_18px_8_12x13.bin        0x00000138        0x000009C0             否
+ 10      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_18px\batch\number_18px_9_12x13.bin        0x00000138        0x00000AF8             否
+ 11      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_18px\batch\number_18pxc_colon_5x13.bin        0x00000082        0x00000C30             否
+ 12      E:\appscomm\L42E\ui\l42E\L42E_ui\数字_18px\batch\number_18pxc_comma_4x13.bin        0x00000068        0x00000CB2             否

@@ -1,0 +1,10 @@
+目标文件:E:\appscomm\L42E\ui\l42E\L42E_ui_合并\chars\L42E_char.bin   大小:0x0001CD2C
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\chars\char_18pxAZ_13x15.bin        0x00002DF0        0x00000000             否
+ 2      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\chars\char_18pxazs_11x17.bin        0x00002C5C        0x00002DF0             否
+ 3      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\chars\char_24pxAZ_17x20.bin        0x00004CB8        0x00005A4C             否
+ 4      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\chars\char_24pxazs_14x24.bin        0x00004F20        0x0000A704             否
+ 5      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\chars\char_30pxAZ_21x24.bin        0x00006CF0        0x0000F624             否
+ 6      E:\appscomm\L42E\ui\l42E\L42E_ui_合并\chars\char_30pxazs_16x28.bin        0x00006A18        0x00016314             否

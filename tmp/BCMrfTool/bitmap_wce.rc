@@ -1,0 +1,26 @@
+;ID           image type                  filename
+
+
+0             Bitmap                      0.bmp
+1             Bitmap                      1.bmp
+2             Bitmap                      2.bmp
+3             Bitmap                      3.bmp
+4             Bitmap                      4.bmp
+5             Bitmap                      5.bmp
+6             Bitmap                      6.bmp
+7             Bitmap                      7.bmp
+8             Bitmap                      8.bmp
+9             Bitmap                      9.bmp
+
+10            Bitmap                      dot.bmp
+
+11            Bitmap                      please.bmp
+12            Bitmap                      carpic.bmp
+13            Bitmap                      stop.bmp
+14            Bitmap                      car.bmp
+15            Bitmap                      back.bmp
+
+16            Bitmap                      Exclamation.bmp
+
+18            Bitmap                      m.bmp
+19            WAV                         sound_48000.wav

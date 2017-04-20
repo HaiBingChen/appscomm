@@ -1,0 +1,10 @@
+目标文件:E:\appscomm\w25\ui\w25_ui_git\w25_ui_合并_20170329\bar\brightness_bar.bin   大小:0x00000300
+各部分大小如下:
+
+索引                        文件名                                            大小              偏移量            强制插入
+ 1      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\bar\batch\brightness_black_centre_6x6.bin        0x00000080        0x00000000             否
+ 2      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\bar\batch\brightness_black_left_6x6.bin        0x00000080        0x00000080             否
+ 3      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\bar\batch\brightness_black_right_6x6.bin        0x00000080        0x00000100             否
+ 4      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\bar\batch\brightness_yellow_centre_6x6.bin        0x00000080        0x00000180             否
+ 5      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\bar\batch\brightness_yellow_left_6x6.bin        0x00000080        0x00000200             否
+ 6      E:\appscomm\w25\ui\w25_ui_git\w25_ui_20170329\bar\batch\brightness_yellow_right_6x6.bin        0x00000080        0x00000280             否
